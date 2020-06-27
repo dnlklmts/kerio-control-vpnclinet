@@ -1,4 +1,4 @@
-# Kerio Control VPN Client in Debian-base Docker-container
+# Kerio Control VPN Client in Debian-based Docker-container
 
 A little hack for those Arch Linux users who are currently suffering from that [ issue](https://aur.archlinux.org/packages/kerio-control-vpnclient/#comment-719061).
 
